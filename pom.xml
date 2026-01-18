@@ -42,7 +42,7 @@
 		<finalName>spring-boot-docker-app</finalName>
 		<plugins>
 			<plugin>
-				<groupId>org.springframework.boot</groupId>
+				<groupId>org.springframework.boot.application</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
