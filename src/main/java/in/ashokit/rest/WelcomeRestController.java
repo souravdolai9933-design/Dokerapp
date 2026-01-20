@@ -40,9 +40,17 @@ public class WelcomeRestController {
 
   // 321
   publi void m2(){
- int x =1233;
+ int x =6321;
+  String name ="rima";
 int y=3434;
 // logic done
+       // task no 320 
+      public void main(){
+
+      int i=10;
+      int j=20;
+     // logic pending
+ 
 }
 	
 	
