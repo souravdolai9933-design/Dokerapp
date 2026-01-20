@@ -37,6 +37,13 @@ public class WelcomeRestController {
 		logger.info("***** ***************************** *****");
 		return msg;
 	}
+
+  // 321
+  publi void m2(){
+ int x =1233;
+int y=3434;
+// logic done
+}
 	
 	
 }
