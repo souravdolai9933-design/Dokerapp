@@ -40,7 +40,8 @@ public class WelcomeRestController {
 
   // 321
   publi void m2(){
- int x =1233;
+ int x =5000;
+	  String name ="sourav";
 int y=3434;
 // logic done
 }
